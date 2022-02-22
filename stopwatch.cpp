@@ -4,6 +4,8 @@
 using namespace std;
 int main()
 {
+
+cout << "This is a stopwatch" << endl;
  
  system("CLS");
  int HH=0,MM=0,SS=0;
